@@ -118,7 +118,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/你的用户名/md-to-weixin.git
+git clone https://github.com/EvoAI-li/md-to-weixin.git
 cd md-to-weixin
 
 # 安装依赖

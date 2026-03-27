@@ -118,7 +118,7 @@ Fresh and natural green-toned theme for eco, health, and lifestyle content.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/md-to-weixin.git
+git clone https://github.com/EvoAI-li/md-to-weixin.git
 cd md-to-weixin
 
 # Install dependencies

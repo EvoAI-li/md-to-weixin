@@ -198,5 +198,5 @@ const html = exportHtml(markdownContent, theme)
 
 ## Links
 
-- Source: [GitHub Repository](https://github.com/your-username/md-to-weixin)
+- Source: [GitHub Repository](https://github.com/EvoAI-li/md-to-weixin)
 - Tech Stack: React 19, Vite 8, CodeMirror 6, marked 17, juice 11, Zustand 5
